@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Daedongyeojido/static/css/main.5defd3a8.css",
-    "main.js": "/Daedongyeojido/static/js/main.15032243.js",
+    "main.css": "/Daedongyeojido/static/css/main.50bf3324.css",
+    "main.js": "/Daedongyeojido/static/js/main.e3f433aa.js",
     "index.html": "/Daedongyeojido/index.html",
-    "main.5defd3a8.css.map": "/Daedongyeojido/static/css/main.5defd3a8.css.map",
-    "main.15032243.js.map": "/Daedongyeojido/static/js/main.15032243.js.map"
+    "main.50bf3324.css.map": "/Daedongyeojido/static/css/main.50bf3324.css.map",
+    "main.e3f433aa.js.map": "/Daedongyeojido/static/js/main.e3f433aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.5defd3a8.css",
-    "static/js/main.15032243.js"
+    "static/css/main.50bf3324.css",
+    "static/js/main.e3f433aa.js"
   ]
 }
