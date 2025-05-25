@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/korea-map/static/css/main.5defd3a8.css",
+    "main.js": "/korea-map/static/js/main.15032243.js",
+    "index.html": "/korea-map/index.html",
+    "main.5defd3a8.css.map": "/korea-map/static/css/main.5defd3a8.css.map",
+    "main.15032243.js.map": "/korea-map/static/js/main.15032243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5defd3a8.css",
+    "static/js/main.15032243.js"
+  ]
+}
