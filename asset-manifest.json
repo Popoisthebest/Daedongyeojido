@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Daedongyeojido/static/css/main.50bf3324.css",
-    "main.js": "/Daedongyeojido/static/js/main.e3f433aa.js",
-    "index.html": "/Daedongyeojido/index.html",
-    "main.50bf3324.css.map": "/Daedongyeojido/static/css/main.50bf3324.css.map",
-    "main.e3f433aa.js.map": "/Daedongyeojido/static/js/main.e3f433aa.js.map"
+    "main.css": "/static/css/main.50bf3324.css",
+    "main.js": "/static/js/main.e3f433aa.js",
+    "index.html": "/index.html",
+    "main.50bf3324.css.map": "/static/css/main.50bf3324.css.map",
+    "main.e3f433aa.js.map": "/static/js/main.e3f433aa.js.map"
   },
   "entrypoints": [
     "static/css/main.50bf3324.css",
