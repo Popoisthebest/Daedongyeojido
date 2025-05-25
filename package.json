@@ -2,7 +2,7 @@
   "name": "korea-map",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://popoisthebest.github.io/Daedongyeojido",
+  "homepage": "http://daedongyeomap.kro.kr",
   "dependencies": {
     "autoprefixer": "^10.4.17",
     "leaflet": "^1.9.4",
