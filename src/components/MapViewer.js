@@ -156,8 +156,10 @@ const locations = {
       type: "Feature",
       properties: {
         name: "서울",
-        oldName: "한양",
-        description: "조선의 수도였던 한양은 현재 대한민국의 수도 서울입니다.",
+        oldName: "한성부",
+        description:
+          "조선의 수도였던 한성부는 현재 대한민국의 수도 서울입니다.",
+        image: "/locations/Hanseongbu1.jpg",
       },
       geometry: {
         type: "Point",
@@ -170,6 +172,7 @@ const locations = {
         name: "수원",
         oldName: "수원부",
         description: "조선시대 수원부는 현재 경기도 수원시입니다.",
+        image: "/locations/Suwonbu1.jpg",
       },
       geometry: {
         type: "Point",
@@ -182,6 +185,7 @@ const locations = {
         name: "전주",
         oldName: "전주부",
         description: "조선시대 전주부는 현재 전라북도 전주시입니다.",
+        image: "/locations/Jeonjubu1.jpg",
       },
       geometry: {
         type: "Point",
@@ -195,6 +199,7 @@ const locations = {
         oldName: "강화부",
         description:
           "고려가 몽골과의 전쟁 중 임시 수도로 사용했던 강화도입니다.",
+        image: "/locations/Ganghwabu1.jpg",
       },
       geometry: {
         type: "Point",
@@ -207,6 +212,7 @@ const locations = {
         name: "개성",
         oldName: "개성부",
         description: "고려의 수도였던 송악은 현재 개성특별시입니다.",
+        image: "/locations/Kaesongbu1.jpeg",
       },
       geometry: {
         type: "Point",
@@ -219,6 +225,7 @@ const locations = {
         name: "평양",
         oldName: "평양부",
         description: "고구려의 수도였던 평양성은 현재 북한의 수도입니다.",
+        image: "/locations/Pyongyangbu1.jpg",
       },
       geometry: {
         type: "Point",
@@ -231,6 +238,7 @@ const locations = {
         name: "부산",
         oldName: "부산부",
         description: "조선시대 주요 항구였던 부산포는 현재 부산광역시입니다.",
+        image: "/locations/Busanbu1.jpg",
       },
       geometry: {
         type: "Point",
@@ -243,6 +251,7 @@ const locations = {
         name: "대구",
         oldName: "대구부",
         description: "조선시대 대구부는 현재 대구광역시입니다.",
+        image: "/locations/Daegubu1.jpg",
       },
       geometry: {
         type: "Point",
@@ -255,6 +264,7 @@ const locations = {
         name: "인천",
         oldName: "인천부",
         description: "조선시대 인천부는 현재 인천광역시입니다.",
+        image: "/locations/Incheonbu1.jpg",
       },
       geometry: {
         type: "Point",
@@ -267,6 +277,7 @@ const locations = {
         name: "광주",
         oldName: "광주부",
         description: "조선시대 광주부는 현재 광주광역시입니다.",
+        image: "/locations/Gwangjubu1.jpg",
       },
       geometry: {
         type: "Point",

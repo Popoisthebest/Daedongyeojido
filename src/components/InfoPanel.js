@@ -38,6 +38,8 @@ const InfoPanel = ({ location }) => {
         return ["/locations/Incheonbu1.jpg", "/locations/Incheonbu2.jpg"];
       case "Gwangjubu":
         return ["/locations/Gwangjubu1.jpg", "/locations/Gwangjubu2.jpg"];
+      case "Kaesongbu":
+        return ["/locations/Kaesongbu1.jpeg"];
       default:
         return [location.image];
     }
